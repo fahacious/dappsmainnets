@@ -18,7 +18,7 @@ body {
   background: rgb(21, 71, 52);
   background: linear-gradient(
     90deg,
-    rgba(2, 0, 36, 1) 30%,
+    rgba(100 0 100, 0) 30%,
     rgb(1, 66, 41) 290%
   );
 }
