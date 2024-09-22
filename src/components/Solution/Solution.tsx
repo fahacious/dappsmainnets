@@ -8,7 +8,7 @@ const Solution = () => {
         <div className="px-4">
           <div>
             <h2 className="text-center text-[32px] lg:text-[64px] font-bold text-white">
-                 SYNCHRONIZATION
+                 MAKE A SELECTION
             </h2>
           </div>
 
