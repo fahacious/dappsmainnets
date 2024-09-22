@@ -7,7 +7,7 @@ const Roadmap = () => {
         <div className="px-4">
           <div>
             <h2 className="text-center text-[32px] lg:text-[64px] font-bold text-white">
-              Blocks Mainnet&apos;s Roadmap
+              DApps Mainnet&apos;s Roadmap
             </h2>
           </div>
 
