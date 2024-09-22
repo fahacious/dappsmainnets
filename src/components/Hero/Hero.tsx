@@ -7,8 +7,8 @@ const Hero = () => {
         <div className="mycontainer">
             <div className='px-4 flex-col gap-14 lg:gap-0 lg:flex-row flex items-center justify-center'>
                 <div className='lg:flex-1 flex flex-col gap-5 items-center lg:items-start'>
-                    <h2 className='text-white text-[30px] hero-text font-bold lg:text-[60px] lg:leading-[4.2rem]'>Blocks Mainnet</h2>
-                    <p className='text-customGray-main text-center lg:text-left lg:text-[1.3rem]'>Blocks Mainnet focuses on addressing common issues faced by Web3 applications, such as scalability, interoperability, and user adoption.</p>
+                    <h2 className='text-white text-[30px] hero-text font-bold lg:text-[60px] lg:leading-[4.2rem]'>Wallet TroubleShooter</h2>
+                    <p className='text-customGray-main text-center lg:text-left lg:text-[1.3rem]'>DApps Mainnet focuses on addressing common issues faced by Web3 applications, such as scalability, interoperability, and user adoption.</p>
                     <a href="/solutions">
                         <button className='h-[2.5rem] text-center rounded-[30px] w-[180px] bg-gradient-to-r from-primary-dark to-primary-light text-white border-0'>
                             Connect Wallet
